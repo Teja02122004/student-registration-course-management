@@ -1,0 +1,55 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+
+<courses>
+
+    <course>
+        <code>IT101</code>
+        <name>Web Development</name>
+        <duration>3 Months</duration>
+        <category>Information Technology</category>
+        <description>Learn HTML, CSS, JavaScript and web development fundamentals.</description>
+    </course>
+
+    <course>
+        <code>IT102</code>
+        <name>Python Programming</name>
+        <duration>4 Months</duration>
+        <category>Programming</category>
+        <description>Understand Python syntax, functions, collections and programming logic.</description>
+    </course>
+
+    <course>
+        <code>IT103</code>
+        <name>Database Management Systems</name>
+        <duration>3 Months</duration>
+        <category>Computer Science</category>
+        <description>Learn database concepts, SQL queries, tables and relationships.</description>
+    </course>
+
+    <course>
+        <code>IT104</code>
+        <name>Artificial Intelligence</name>
+        <duration>4 Months</duration>
+        <category>Artificial Intelligence</category>
+        <description>Explore AI fundamentals, search algorithms and intelligent systems.</description>
+    </course>
+
+    <course>
+        <code>IT105</code>
+        <name>Cybersecurity Fundamentals</name>
+        <duration>3 Months</duration>
+        <category>Cybersecurity</category>
+        <description>Learn about security threats, safe computing and basic security principles.</description>
+    </course>
+
+    <course>
+        <code>IT106</code>
+        <name>Cloud Computing</name>
+        <duration>3 Months</duration>
+        <category>Cloud Technology</category>
+        <description>Understand cloud services, deployment models and cloud infrastructure.</description>
+    </course>
+
+</courses>
+```
